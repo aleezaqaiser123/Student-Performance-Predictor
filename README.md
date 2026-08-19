@@ -94,10 +94,10 @@ The model predicted:
 ```text
 Student-Performance-Predictor/
 │
-├── data/
+├── DATA/
 │   └── student_performance.csv
 │
-├── screenshots/
+├── Screenshots/
 │   ├── study_hours_vs_marks.png
 │   ├── attendance_vs_marks.png
 │   ├── correlation_heatmap.png
