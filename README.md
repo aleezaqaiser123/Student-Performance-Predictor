@@ -104,7 +104,7 @@ Student-Performance-Predictor/
 │   ├── actual_vs_predicted.png
 │   └── model_performance.png
 │
-├── ├── student_performance.py
+├── student_performance.py
 ├── requirements.txt
 └── README.md
 ```
